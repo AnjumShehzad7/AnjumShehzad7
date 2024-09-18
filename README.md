@@ -13,7 +13,7 @@ I'm a software engineer specializing in AI and scalable backend solutions. I foc
 
   ## Let's Connect! 😊
   
-- 📬 Reach me at anjumshehzad999@gmail.com.
+- [📬]<(https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)> Reach me at anjumshehzad999@gmail.com.
 - LinkedIn: [Anjum Shehzad](https://www.linkedin.com/in/anjum-shehzad)
 
 
