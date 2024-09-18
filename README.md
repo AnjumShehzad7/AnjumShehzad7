@@ -11,10 +11,10 @@ I'm a software engineer specializing in AI and scalable backend solutions. I foc
 - 😄 **Pronouns**: He/Him.
 - ⚡ **Fun fact**: I love combining AI and data science to solve challenging problems, and I’m always experimenting with new technologies like GANs and Transformers!
 
-  ## Let's Connect
+  ## Let's Connect! 😊
   
 - 📬 Reach me at anjumshehzad999@gmail.com.
-- [LinkedIn: Anjum Shehzad](https://www.linkedin.com/in/anjum-shehzad)
+- LinkedIn: [Anjum Shehzad](https://www.linkedin.com/in/anjum-shehzad)
 
 
 
