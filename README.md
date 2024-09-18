@@ -1,6 +1,5 @@
 ## **Hi, I'm Anjum Shehzad!** 👋 
 
-<!-- 
 I'm a software engineer specializing in AI and scalable backend solutions. I focus on creating data-driven systems that deliver real-world impact.
 
 - 🔭 **I’m currently working on**: Building machine learning models and deploying APIs using Python, TensorFlow, and FastAPI to solve real-world problems.
@@ -15,6 +14,5 @@ I'm a software engineer specializing in AI and scalable backend solutions. I foc
 
   📬 Let's connect! Reach me at [anjumshehzad999@gmail.com].
 
--->
 
 
