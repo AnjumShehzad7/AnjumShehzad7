@@ -1,20 +1,20 @@
-## **Hi, I'm Anjum Shehzad!** 👋 
+## Hi, I'm Anjum Shehzad 👋
 
-I'm a software engineer specializing in AI and scalable backend solutions. I focus on creating data-driven systems that deliver real-world impact.
+AI & software engineer focused on **AI agents for software development**, **LLM applications** and
+**machine learning research**. M.Sc. Artificial Intelligence student based in Freiburg, Germany.
 
-- 🔭 **I’m currently working on**: Building machine learning models and deploying APIs using Python, TensorFlow, and FastAPI to solve real-world problems.
-- 🌱 **I’m currently learning**: Advanced AI techniques, cloud infrastructure with Docker, and real-time data processing with Kafka.
-- 👯 **I’m looking to collaborate on**: AI/ML projects, backend system development, and cloud-based architectures.
-- 🧠 **Tech I work with**: Python, JavaScript, Scikit-learn, PyTorch, SQL/NoSQL databases, Docker, and cloud platforms like AWS and Azure.
-- 🤔 **I’m looking for help with**: Optimizing machine learning pipelines and exploring reinforcement learning strategies.
-- 💬 **Ask me about**: Machine learning models, API development, cloud integration, and data visualization techniques.
-- 😄 **Pronouns**: He/Him.
-- ⚡ **Fun fact**: I love combining AI and data science to solve challenging problems, and I’m always experimenting with new technologies like GANs and Transformers!
-- 📬 **Reach me at**: anjumshehzad999@gmail.com.
-  ## Let's Connect! 😊
-  
-- LinkedIn: [Anjum Shehzad](https://www.linkedin.com/in/anjum-shehzad)
+### 🚀 What I'm working on
+- **AI-assisted software engineering** – building AI coding agents, reusable agent skills and an agentic
+  merge request reviewer running in CI/CD pipelines
+- **LLM evaluation** – benchmarking systems to score and compare AI model outputs
+- **Full-stack development** – a process mining tool with React.js and Python/FastAPI
+- **Graph Neural Networks** – GNN-based state estimation for power distribution networks (TensorFlow)
 
+### 🛠️ Tech stack
+**AI & ML:** LLMs, AI Agents, MCP, LangChain, RAG, PyTorch, TensorFlow, scikit-learn  
+**Software:** Python, JavaScript, React.js, FastAPI, SQL  
+**DevOps:** Docker, CI/CD (GitHub Actions, GitLab CI), Git, Linux
 
-
-
+### 📫 Get in touch
+- LinkedIn: [anjum-shehzad](https://www.linkedin.com/in/anjum-shehzad)
+- Email: anjumshehzad999@gmail.com
